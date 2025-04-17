@@ -5,7 +5,7 @@ void coutstudentId() {
 }
 int main (){
 cout<<"Hello World"<<endl;
-coutstudentID();
+coutstudentId();
 return 0;
 
 }
